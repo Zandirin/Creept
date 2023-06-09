@@ -1,3 +1,3 @@
 # Welcome to Creept
 
-# Connecting the world with Otherworldly friends
+## Connecting the world with Otherworldly friends
